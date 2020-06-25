@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorLayout</string>
+    <string name="extended_fab_content_desc">Add</string>
+    <string name="extended_fab_label">Label</string>
+</resources>
